@@ -11,3 +11,7 @@ Encoding: UTF-8
 LazyData: true
 URL: https://@github.com/Raiservi/rminkav4
 BugReports: https://@github.com/Raiservi/rminkav4/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
